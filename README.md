@@ -79,3 +79,7 @@ I’m interested in building practical AI systems that can reason, retrieve info
     </td>
   </tr>
 </table>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Babe153&label=Profile+Views&color=0078D7&style=flat-square" alt="Profile views" />
+</p>
