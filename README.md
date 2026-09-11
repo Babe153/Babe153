@@ -1,9 +1,19 @@
-Hi ! My name is Xinsheng Liu
-Hi  My name is Xinsheng Liu
-=====================================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=600&lines=Hi,+I'm+Xinsheng.+Full-Stack+Agent+Engineer" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently Focus on learning agent development.</strong>
+  </p>
 
-Full-Stack Developer & AI Agent Engineer
-----------------------------------------
+  <p>
+    <code> Born 2006.01.26 · Chengdu, China.</code>
+    <code> Now Base in BeiJing.</code>
+  </p>
+
+<p>
+</p>
+
+</div>
 
 I’m a MPE Software Engineering student at the USYD.
 
