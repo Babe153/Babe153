@@ -6,8 +6,8 @@
   </p>
 
   <p>
-    <code> </code>
-    <code> Now Studing in Sydney.</code>
+    <code>&#127891; MPE Software Engineering @ USYD</code>
+    <code>&#129432; Now Studying in Sydney.</code>
   </p>
 
 <p>
@@ -15,19 +15,24 @@
 
 </div>
 
-I’m a MPE Software Engineering student at the USYD.
 
 I’m interested in building practical AI systems that can reason, retrieve information, use tools, and complete real-world tasks. My current focus is on AI agents, retrieval-augmented generation, LLM engineering, and reliable AI-powered software.
 
-*   I'm based in Based in Sydney, Australia
-*   See my portfolio at [myProfile](http://github.com/Babe153)
-*   You can contact me at [liuxinsheng186@gmail.com](mailto:liuxinsheng186@gmail.com)
-*   I'm currently working on [Zero-to-agent](http://github.com/Babe153/zero-to-agent)
-*   I'm currently learning Tool-using agents with memory and multi-step workflow orchestration and Retrieval-augmented generation and vector databases
-*   I'm looking to collaborate on AI agents and LLM-powered products
-*   My long-term goal is to become an engineer who can connect AI research with reliable, useful software products.
+:earth_asia: Based in Sydney, Australia
 
-<h2>Tech Stack</h2>
+:desktop_computer: See my portfolio at [myProfile](http://github.com/Babe153)
+
+:mailbox: You can contact me at [liuxinsheng186@gmail.com](mailto:liuxinsheng186@gmail.com)
+
+:rocket: I'm currently working on [Zero-to-agent](http://github.com/Babe153/zero-to-agent)
+
+:brain: I'm currently learning Tool-using agents with memory and multi-step workflow orchestration and Retrieval-augmented generation
+
+:handshake: I'm looking to collaborate on AI agents and LLM-powered products
+
+:left_speech_bubble: My long-term goal is to become an engineer who can connect AI research with reliable, useful software products.
+
+<h2>:hammer_and_wrench:Tech Stack</h2>
 
 <table align="center" width="100%">
   <tr>
