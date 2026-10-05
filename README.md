@@ -24,7 +24,7 @@ I’m interested in building practical AI systems that can reason, retrieve info
 
 :mailbox: You can contact me at [liuxinsheng186@gmail.com](mailto:liuxinsheng186@gmail.com)
 
-:rocket: I'm currently working on [Zero-to-agent](http://github.com/Babe153/zero-to-agent)
+:rocket: I'm currently working on [Agent01-from-Scratch](https://github.com/Babe153/Agent01-from-Scratch)
 
 :brain: I'm currently learning Tool-using agents with memory and multi-step workflow orchestration and Retrieval-augmented generation
 
